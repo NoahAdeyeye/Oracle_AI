@@ -1,0 +1,72 @@
+Hello, As an AI language model, you are designed to help me organize myself and help my with various tasks. I will have sections divided by 5 by pound symbols, example: "#####". The section title will be bold and contained in two pound symbols, for example, "#XXXX#". This will ensure my data is organized. If an "*" is ever present it shows a deeper explanation. Good luck!
+
+#PERSONAL_INFORMATION#
+#####
+
+My name is Oluwaseun Noah Adeyeye, I go by my middle name Noah
+My birthday is March 21st, 2004
+
+#####
+
+#####
+#PAST_ESSAYS#
+#####
+
+
+
+#COPY_OF_MY_RESUME#
+#####
+
+
+Freshman Howard University Electrical Engineer major aiming to use his skills to obtain a Ph.D. and make an impact on the engineering world and community
+EDUCATION 
+Atholton High School Columbia, MD                                                                                                                             Cumulative weighted GPA 4.22
+  
+Howard University Washington DC                                                                                                                                   Major: Electrical Engineering
+                                                                                                                                                                               Minor: Computer Science, Mathematics
+                                                                                                                                                                                                          Cumulative GPA 3.68
+RELEVANT COURSEWORK
+Computer Science I (Python)
+∙ In this course I cultivate my understanding of coding through analyzing, writing, and testing code and explored concepts like algorithms, operating systems, and control structures.
+Introduction to Electrical & Computer Engineering
+∙ In this course I was taught fundamental information about Electrical and Computer Engineering and learned skills like coding Arduinos and assembling an electrical system.
+Engineering Programming & Application                                                                                                                                            Currently enrolled
+∙ In this course we use python to tackle concepts that teach us methods and techniques needed to perform successful computation. The course includes complexity, testing and debugging, binary search, divide and conquer, dynamic programming, application to statistics, and Monte Carlo simulations.
+ENGINEERING AND STEM PROGRAMS 
+Institute of Electrical and Electronics Engineers (IEEE)                                                                                                                            2023-Present 
+∙ IEEE is a technical professional organization dedicated to advancing technology for the benefit of humanity.
+∙ In this program members are given opportunities to build, create and work on hands-on projects such as robotic devices and drones. These activities help students apply techniques learned through studies and practice Engineering techniques.
+Karsh STEM Scholars Program                                                                                                                                                                    2022-Present 
+∙ Member of the Karsh STEM Scholars Program, Howard University’s premier scholarship program for high-achieving students of science, technology, engineering, and mathematics disciplines.
+∙  Throughout this program I have learned various skills by completing rigorous coursework as I take steps to become a leader in the STEM field with the guidance of STEM professionals. Everything learned in this program makes an individual geared toward success in the STEM world. The summer program has helped me in my journey to become a leader in the engineering field by teaching me skills such as time management, relationship building, adaptability, and professionalism.
+Project Lead The Way (PLTW)                                                                                                                                                                          2018-2022                                                                                               
+∙ PLTW Engineering course engages students in interdisciplinary activities like designing products, programming electronic devices, patent research, and building circuits.
+∙  These activities helped me build knowledge and skills in engineering, as well as develop essential skills such as CADing,  problem-solving, critical and creative thinking, communication, collaboration, and presenting projects.
+CIEE Study abroad                                                                                                                                                                                                      2022 
+∙ I completed a two-week intensive fellowship in Germany where I participated in seminars related to the public health field, visited the World Health Organization, learned from STEM professionals, and had unique cultural experiences such as visiting the Berlin Wall and Nazi concentration camps.
+
+COMMUNITY OUTREACH AND SERVICE
+Project Lead the Way (PLTW)                                                                                                                                                                          2020-2021                
+ ∙ Led a yearly field trip group that showed neighboring minority middle school students essential engineering practices and guided them through engaging engineering exercises.
+Volunteering at Redeemed Christian Church of God                                                                                                                                2016-Present       
+ ∙ Participated in various volunteering activities like Christmas toy drives in which we drove to children's houses to deliver toys and food and cloth drives where we donated meals and garments.
+Black Student Union                                                                                                                                                                                          2018-2022
+∙ Helped facilitate and organize many community events and had a leading role in a Black history presentation in which I acted and presented information about black history
+Alpha Achievers                                                                                                                                                                                                  2018-2022 ∙Facilitated and organized many events like food drives, cloth drives, and thanksgiving food drives.
+LEADERSHIP EXPERIENCE 
+Executive Board Member for Alpha Achievers                                                                                                                                               2018-2022                                                                                    
+ ∙ Led community service projects and school activities like half-time basketball activities and uplifted Black male students throughout Howard county.
+HONORS AND AWARDS 
+Certificate of Achievement                                                                                                                                                                                2018-2022 
+The Council of Elders of the Black Community of Howard County 
+Certificate of Completion                                                                                                                                                                                  2018-2022
+Engineering: Project Lead the Way Academy 
+Yvonne Harrison Scholarship                                                                                                                                                                                     2022
+James E. Blackwell Scholarship                                                                                                                                                                                 2022
+3.52 cumulative GPA (Honor Roll)                                                                                                                                                                   2018-2022                             
+SKILLS AND OTHER ACTIVITIES  
+Skills: Computer-aided design (CAD), Python coding language, Public Speaking, Writing
+Activities: African student association, National Society of Black Engineers, Howard Senate, Howard CEA
+#####
+
+
